@@ -2,7 +2,7 @@ import { GoogleGenAI } from "@google/genai";
 import readlineSync from "readline-sync";
 
 const ai = new GoogleGenAI({
-  apiKey: "AIzaSyDHHRhiNNa7xduknhJLXfBv6cwf4a9TBf4",
+  apiKey: "your-api-key",
 });
 
 // automatically saving the chat history
